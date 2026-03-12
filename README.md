@@ -1,23 +1,27 @@
 <!-- Animated Header -->
 <h1 align="center">Hi 👋, I'm Maitrik Kaushik</h1>
-<h3 align="center">🚀 Computer Science Student | Backend Enthusiast | Problem Solver</h3>
+<h3 align="center">Computer Science Student | Backend Enthusiast | Problem Solver</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;Open+Source+Learner;Problem+Solver;Always+Learning+New+Things&center=true&width=500&height=50">
 </p>
 
----
-
 ## 👨‍💻 About Me
 
-- 💻 I enjoy **coding and building software**
-- 🌱 Currently learning **Python, JavaScript, HTML, CSS**
-- 🚀 Interested in **Backend Development**
-- 🤝 Looking to collaborate on **Open Source Projects**
-- 📫 Reach me on **Instagram: @kaushik_m41**
-- ⚡ Fun fact: **Lazy until the deadline hits 😄**
+```javascript
+const MaitrikKaushik = {
+    role: "Computer Science Student",
+    interests: ["Backend Development", "Open Source", "Problem Solving"],
+    currentlyLearning: ["Python", "JavaScript", "HTML", "CSS"],
+    lookingToCollaborateOn: ["Web Development Projects", "Open Source"],
+    contact: {
+        instagram: "@kaushik_m41"
+    },
+    pronouns: "He/Him",
+    funFact: "Lazy until the deadline hits 🚀"
+};
 
----
+console.log("Thanks for visiting my profile 👨‍💻"); 
 
 ## 🛠 Tech Stack
 

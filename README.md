@@ -1,12 +1,76 @@
-- 👋 Hi, I’m @MaitrikKaushik
-- 👀 I’m interested coding
-- 🌱 I’m currently learning Python,Javascript,HTML,CSS
-- 💞️ I’m looking to collaborate on Github
-- 📫 How to reach me DM at @kaushik_m41 on instagram.
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: LAZY
+<!-- Animated Header -->
+<h1 align="center">Hi 👋, I'm Maitrik Kaushik</h1>
+<h3 align="center">🚀 Computer Science Student | Backend Enthusiast | Problem Solver</h3>
 
-<!---
-MaitrikKaushik/MaitrikKaushik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;Open+Source+Learner;Problem+Solver;Always+Learning+New+Things&center=true&width=500&height=50">
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 💻 I enjoy **coding and building software**
+- 🌱 Currently learning **Python, JavaScript, HTML, CSS**
+- 🚀 Interested in **Backend Development**
+- 🤝 Looking to collaborate on **Open Source Projects**
+- 📫 Reach me on **Instagram: @kaushik_m41**
+- ⚡ Fun fact: **Lazy until the deadline hits 😄**
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Web Development
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MaitrikKaushik&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaitrikKaushik&theme=tokyonight"/>
+</p>
+
+---
+
+## 📈 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaitrikKaushik&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://instagram.com/kaushik_m41">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+</p>
+
+---
+
+⭐ From [MaitrikKaushik](https://github.com/MaitrikKaushik)

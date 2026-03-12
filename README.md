@@ -15,7 +15,7 @@ const MaitrikKaushik = {
     currentlyLearning: ["Python", "JavaScript", "HTML", "CSS"],
     lookingToCollaborateOn: ["Web Development Projects", "Open Source"],
     contact: {
-        instagram: "@kaushik_m41"
+        X: "https://x.com/Maitrik_Kaushik"
     },
     pronouns: "He/Him",
     funFact: "Lazy until the deadline hits 🚀"

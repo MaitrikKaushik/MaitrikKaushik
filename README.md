@@ -23,10 +23,8 @@ const MaitrikKaushik = {
 
 console.log("Thanks for visiting my profile 👨‍💻"); 
 ```
-## 🛠 Tech Stack
 
-## 🛠 Tech Stack
-
+---
 ## 🛠 Tech Stack
 
 ### Languages

@@ -72,6 +72,12 @@ console.log("Thanks for visiting my profile 👨‍💻");
 
 ---
 
+## 💡 Quote
+
+> **"Do DSA, because it may unlock the secrets of life and of the universe."**
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -91,5 +97,7 @@ console.log("Thanks for visiting my profile 👨‍💻");
 </p>
 
 ---
+
+⭐ Thanks for visiting my profile!
 
 ⭐ From [MaitrikKaushik](https://github.com/MaitrikKaushik)

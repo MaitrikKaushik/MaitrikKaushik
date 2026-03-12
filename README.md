@@ -74,10 +74,22 @@ console.log("Thanks for visiting my profile 👨‍💻");
 
 ## 🌐 Connect With Me
 
+## 🌐 Connect With Me
+
 <p align="center">
+
 <a href="https://instagram.com/kaushik_m41">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
+
+<a href="www.linkedin.com/in/maitrikkaushik">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://x.com/Maitrik_Kaushik">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
+</a>
+
 </p>
 
 ---

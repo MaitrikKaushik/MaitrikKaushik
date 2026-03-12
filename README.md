@@ -22,7 +22,7 @@ const MaitrikKaushik = {
 };
 
 console.log("Thanks for visiting my profile 👨‍💻"); 
-
+```
 ## 🛠 Tech Stack
 
 ### Languages
